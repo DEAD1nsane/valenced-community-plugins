@@ -3,6 +3,33 @@
   "name": "Valenced Community Plugins",
   "description": "Plugins maintained by the Valenced community.",
   "plugins": {
+    "bleelblep.hide-call-buttons": {
+      "name": "Hide Call Buttons",
+      "description": "Hide call and video buttons on profiles, at the top of DMs, in the friends list and in voice channels.",
+      "author": "bleelblep <119043674385547264>",
+      "contributors": [
+        "John <780819226839220265> (https://github.com/janisslsm \"GitHub\")"
+      ],
+      "icon": "PhoneCallIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://community.valenced.app/pool/bleelblep.hide-call-buttons@1.0.0.zip",
+          "sha256": "9c132a6e66e665fb1ab2a892f9c9d22769fd7afb9c9002ed2e5971ba12f055f1",
+          "size": 2190,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": ">=350.2"
+            }
+          }
+        }
+      }
+    },
     "bleelblep.show-tag": {
       "name": "Show Tag",
       "description": "Show usernames next to display names in chat, including in replies.",
