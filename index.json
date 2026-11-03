@@ -221,6 +221,33 @@
         }
       }
     },
+    "dev.nexza.read-all-notifications": {
+      "name": "Read All Notifications",
+      "description": "Mark unread server channels as read with a button under your DMs in the server list.",
+      "author": "NexzaDev (https://github.com/NexzaDev \"GitHub\")",
+      "contributors": [
+        "kemo (https://github.com/kem0x \"GitHub\")"
+      ],
+      "icon": "ChatCheckIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://community.valenced.app/pool/dev.nexza.read-all-notifications@1.0.0.zip",
+          "sha256": "4b2361a9d46ffe354a6eab8a25e1e7e6854712076064bd09c66611ce3fda17f7",
+          "size": 1834,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
     "hakuxyz.clear-urls": {
       "name": "Clear URLs",
       "description": "Strips tracking parameters from URLs you view, send, or edit.",
