@@ -936,6 +936,34 @@
         }
       }
     },
+    "thororen.nsfw-blur": {
+      "name": "NSFW Blur",
+      "description": "Blur images and disable embed media in NSFW channels.",
+      "author": "thororen <848339671629299742> (https://www.thororen.com \"Website\") (https://github.com/thororen1234 \"GitHub\")",
+      "contributors": [
+        "sylv256 <209015289990348800>",
+        "siguma <737597276339437578>"
+      ],
+      "icon": "ImageIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://community.valenced.app/pool/thororen.nsfw-blur@1.0.0.zip",
+          "sha256": "151e24b96908a7d2590190030a356dfba5904ef39423765213b0996b597cb34b",
+          "size": 927,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
     "thororen.tenor-gif-fix": {
       "name": "Tenor GIF Fix",
       "description": "Download and share Tenor links as GIFs instead of MP4s.",
