@@ -160,7 +160,7 @@
       ],
       "icon": "EmojiSmilingFaceWithHeartsIcon",
       "channels": {
-        "latest": "1.0.1"
+        "latest": "1.0.2"
       },
       "versions": {
         "1.0.0": {
@@ -183,6 +183,22 @@
           "url": "https://community.valenced.app/pool/dev.cocobo1.petpet@1.0.1.zip",
           "sha256": "ef013cebc8fee363b4cd7be793757c593919db05d4eb80b36547fcf0a2838296",
           "size": 1908,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "dev.cocobo1.command-lib": {
+              "version": ">=2 <3"
+            }
+          }
+        },
+        "1.0.2": {
+          "url": "https://community.valenced.app/pool/dev.cocobo1.petpet@1.0.2.zip",
+          "sha256": "03b425ee6ee8174a5d41c584442cd7459cc123ff613136f1e385fa33779c8db7",
+          "size": 2085,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
