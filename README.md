@@ -89,5 +89,7 @@ This repository comes **pre-installed with Valenced**. If you want to use these 
 | Name | Description | Authors | Version |
 | --- | --- | --- | --- |
 | [Google Sans Flex](themes/google-sans-flex) | Replaces Discord's gg sans with Google Sans Flex. | Palm <629368283354628116> (https://github.com/sponsors/PalmDevs "Donations") (https://palmdevs.me "Website") (https://github.com/PalmDevs "GitHub") | 1.0.0 |
+| [RBW AMOLED](themes/rbw-amoled) | AMOLED black base with red, grey & white accents. Best with Gantari font. | im__turbo__ <288054683161853952> (https://github.com/DEAD1nsane "GitHub") | 1.0.0 |
+| [Gantari](themes/gantari) | Clean geometric sans-serif font. | im__turbo__ <288054683161853952> (https://github.com/DEAD1nsane "GitHub") | 1.0.0 |
 
 <!-- THEMES_TABLE_END -->
