@@ -84,7 +84,15 @@ This repository comes **pre-installed with Valenced**. If you want to use these 
 
 ## 🎨 Themes
 
-<!-- THEMES_TABLE_BEGIN -->
+Themes, fonts, and icon packs can be applied from **Settings** > **Valenced** > **Themes**.
+
+### Color Themes
+
+| Name | Description | Authors | Version |
+| --- | --- | --- | --- |
+| [RBW AMOLED](themes/rbw-amoled) | AMOLED black base with red, grey & white accents. Best with Gantari font. | im__turbo__ <288054683161853952> (https://github.com/DEAD1nsane "GitHub") | 1.0.0 |
+
+### Font Packs
 
 | Name | Description | Authors | Version |
 | --- | --- | --- | --- |
@@ -98,8 +106,18 @@ This repository comes **pre-installed with Valenced**. If you want to use these 
 | [Linotte](themes/linotte) | Rounded sans-serif with a friendly personality. | im__turbo__ <288054683161853952> (https://github.com/DEAD1nsane "GitHub") | 1.0.0 |
 | [Playfair Display](themes/playfair) | Elegant serif with high contrast and stylish details. | im__turbo__ <288054683161853952> (https://github.com/DEAD1nsane "GitHub") | 1.0.0 |
 | [Quicksand](themes/quicksand) | Rounded geometric sans-serif. | im__turbo__ <288054683161853952> (https://github.com/DEAD1nsane "GitHub") | 1.0.0 |
-| [RBW AMOLED](themes/rbw-amoled) | AMOLED black base with red, grey & white accents. Best with Gantari font. | im__turbo__ <288054683161853952> (https://github.com/DEAD1nsane "GitHub") | 1.0.0 |
 | [Source Code Pro](themes/source-code-pro) | Clean monospace for code and text. | im__turbo__ <288054683161853952> (https://github.com/DEAD1nsane "GitHub") | 1.0.0 |
 | [Space Mono](themes/space-mono) | Monospace typeface for display and code. | im__turbo__ <288054683161853952> (https://github.com/DEAD1nsane "GitHub") | 1.0.0 |
 
-<!-- THEMES_TABLE_END -->
+### Icon Packs
+
+| Name | Description | Authors | Version |
+| --- | --- | --- | --- |
+| [Deco](themes/deco) | Iconpack based on Icons8 Deco collection. | doraa | 1.0.0 |
+| [Iconsax Bulk](themes/iconsax-bulk) | Twotoned Iconsax style iconpack. | doraa & Moodle | 1.0.0 |
+| [Material Two Tone](themes/material-two-tone) | Material Design icons in two tone style. | doraa | 1.0.0 |
+| [Rosiecord Iconsax](themes/rosiecord-iconsax) | Modern icons from Rosiecord with custom Iconsax style. | Rosie & Flower | 1.0.0 |
+| [Rosiecord Plumpy](themes/rosiecord-plumpy) | Popular Rosiecord iconpack with cute plumpy icons from Icons8. | Rosie, samara & Rairof | 1.0.0 |
+| [Solar](themes/solar) | A giant iconpack, as big as the solar system! | mudrhiod | 1.0.0 |
+| [Solar (Duotone)](themes/solar-duotone) | A giant iconpack with more colors. | mudrhiod | 1.0.0 |
+| [Solar (Dashed)](themes/solar-dashed) | Solar iconpack with dashed line style. | mudrhiod | 1.0.0 |
