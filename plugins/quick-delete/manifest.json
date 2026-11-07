@@ -1,0 +1,12 @@
+{
+	"format": 1,
+	"id": "dead1nsane.quick-delete",
+	"name": "Quick Delete",
+	"description": "Skip the confirmation dialog when deleting a message.",
+	"author": "The Sun <406028027768733696> (https://github.com/actuallythesun \"GitHub\")",
+	"icon": "DenyIcon",
+	"version": "1.0.0",
+	"dist": {
+		"script": "index.js"
+	}
+}
