@@ -113,11 +113,3 @@ Themes, fonts, and icon packs can be applied from **Settings** > **Valenced** > 
 
 | Name | Description | Authors | Version |
 | --- | --- | --- | --- |
-| [Deco](themes/deco) | Iconpack based on Icons8 Deco collection. | doraa | 1.0.0 |
-| [Iconsax Bulk](themes/iconsax-bulk) | Twotoned Iconsax style iconpack. | doraa & Moodle | 1.0.0 |
-| [Material Two Tone](themes/material-two-tone) | Material Design icons in two tone style. | doraa | 1.0.0 |
-| [Rosiecord Iconsax](themes/rosiecord-iconsax) | Modern icons from Rosiecord with custom Iconsax style. | Rosie & Flower | 1.0.0 |
-| [Rosiecord Plumpy](themes/rosiecord-plumpy) | Popular Rosiecord iconpack with cute plumpy icons from Icons8. | Rosie, samara & Rairof | 1.0.0 |
-| [Solar](themes/solar) | A giant iconpack, as big as the solar system! | mudrhiod | 1.0.0 |
-| [Solar (Duotone)](themes/solar-duotone) | A giant iconpack with more colors. | mudrhiod | 1.0.0 |
-| [Solar (Dashed)](themes/solar-dashed) | Solar iconpack with dashed line style. | mudrhiod | 1.0.0 |
